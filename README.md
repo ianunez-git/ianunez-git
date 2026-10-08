@@ -1,7 +1,7 @@
 
 # Hi, I'm Ignacio! 👋
 
-### Software Engineering Student | Python Automation | Software Testing
+### Computer Science Student | Python Automation | Software Testing
 
 I'm a software engineering student based in Chile, currently studying at INACAP.
 
